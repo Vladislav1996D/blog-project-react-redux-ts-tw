@@ -1,0 +1,19 @@
+@import '~react-toastify/dist/ReactToastify.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Sourse Sans Pro', sans-serif;
+  }
+
+  a {
+    @apply text-solution-bluegreen;
+
+    &:hover {
+      @apply text-solution-darkBluegreen;
+      @apply underline;
+    }
+  }
+}
