@@ -24,7 +24,7 @@ Blog where you can post your own articles, read articles by other users, follow 
 
 `npm i`
 
-After installing all the packages, in the terminal, type the command:
+2. After installing all the packages, in the terminal, type the command:
 
 `npm start`
 
@@ -58,7 +58,7 @@ Ukr\*
 
 `npm i`
 
-Після встановлення всіх пакетів, у терміналі наберіть команду:
+2. Після встановлення всіх пакетів, у терміналі наберіть команду:
 
 `npm start`
 
