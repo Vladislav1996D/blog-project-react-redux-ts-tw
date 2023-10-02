@@ -52,7 +52,7 @@ Ukr\*
 
 **Стек технологій**: React + React Router Dom, Redux-toolkit + RTK-query, Typescript, Tailwind
 
-### Як запустити проєкт локально:
+### Як запустити проект локально:
 
 1. У терміналі наберіть команду:
 
